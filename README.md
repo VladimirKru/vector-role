@@ -1,4 +1,4 @@
-vector-role
+vector-role v.1.0.0
 =========
 
 This role install Vector.
